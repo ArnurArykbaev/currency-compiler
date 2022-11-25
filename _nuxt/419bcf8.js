@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{635:function(n,t,e){"use strict";e.r(t),t.default={main:{notify:"Курс валюты в России может сильно отличаться. Будьте блительны!",label_firstCurrency:"Введите значение",current_date:"Текущее время: "},currency_list:{title:"Ваша валюта: "}}}}]);
