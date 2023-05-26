@@ -1,5 +1,5 @@
 # currency
-
+https://arnurarykbaev.github.io/currency-compiler/
 Для запуска проекта воспользуйтесь командами "npm i" для установки зависимостей и "npm run dev" для запуска на локальном хосте("http://localhost:3000/currency-compiler/").
 
 Проект содержит плагины:
